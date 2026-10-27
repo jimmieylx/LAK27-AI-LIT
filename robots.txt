@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jimmieylx.github.io/LAK27-AI-LIT/sitemap.xml
