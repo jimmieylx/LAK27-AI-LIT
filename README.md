@@ -23,7 +23,7 @@ No build tools or API keys are required. The website consists of HTML, CSS, one 
 ## Structure
 
 - `index.html` — accessible single-page website, workshop copy and organising team
-- `assets/styles.css` — responsive HKU-green-inspired theme
+- `assets/styles.css` — responsive Monash Blue-inspired theme
 - `assets/main.js` — mobile navigation
 - `assets/mark.svg` — original AI-LIT monogram favicon
 - `assets/social-preview.svg` — original social-sharing graphic
@@ -52,7 +52,7 @@ LAK27's Companion Proceedings will include **the workshop description only**. In
 
 ## Project continuity
 
-This site follows the content architecture of the [AI-LIT workshop at LAK26](https://sites.google.com/monash.edu/ai-lit-lak/home) and the LAK27 workshop proposal submitted as #565. The visual language is independently designed with an HKU Green influence (`#024638`), ivory, muted sage and brass; it does not claim or use an official HKU institutional logo.
+This site follows the content architecture of the [AI-LIT workshop at LAK26](https://sites.google.com/monash.edu/ai-lit-lak/home) and the LAK27 workshop proposal submitted as #565. The visual identity uses Monash University’s official primary colour Monash Blue (`#006DAE`), supported by white, neutral grey, and restrained tertiary-blue accents (`#ABF5F9`, `#285AFF`, `#121256`). This is an independently maintained workshop website and does not use an official Monash University logo or imply institutional endorsement.
 
 ## Contact
 
